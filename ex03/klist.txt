@@ -1,0 +1,7 @@
+Credentials cache: API:45171
+        Principal: seli@42.US.ORG
+
+  Issued                Expires               Principal
+Sep 17 14:58:24 2018  Sep 18 00:58:24 2018  krbtgt/42.US.ORG@42.US.ORG
+Sep 17 14:58:28 2018  Sep 18 00:58:24 2018  ldap/ldap-proxy.42.us.org@42.US.ORG
+Sep 17 16:25:51 2018  Sep 18 00:58:24 2018  host/vgs-fn1.42.us.org@42.US.ORG
