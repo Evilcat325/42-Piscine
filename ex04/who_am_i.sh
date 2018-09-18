@@ -1,1 +1,1 @@
-ldapwhoami -Q | cut -d ":" -f 2
+ldapwhoami | cut -d ":" -f 2
