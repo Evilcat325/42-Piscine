@@ -1,1 +1,1 @@
-ls -AmUp  | tr -d ' '
+ls -AmUp
